@@ -26,7 +26,17 @@ pip install requests
 
 ## How to Import into TradingView
 
-### Method 1: Copy & Paste (Recommended)
+### Method 1: Direct File Import (Recommended)
+
+1. Open TradingView in your browser
+2. Go to **Watchlist** panel (usually on the left sidebar)
+3. Click the **+** button to create a new watchlist
+4. Name it "Bybit USDT Pairs" or similar
+5. Click the **Import** button (📁 icon) in the watchlist
+6. Select the generated `bybit_tv_watchlist.txt` file
+7. TradingView will automatically import all symbols
+
+### Method 2: Copy & Paste
 
 1. Open TradingView in your browser
 2. Go to **Watchlist** panel (usually on the left sidebar)
@@ -37,7 +47,7 @@ pip install requests
 7. In TradingView, paste the symbols into the watchlist
 8. Press **Enter** to add all symbols
 
-### Method 2: Manual Import
+### Method 3: Manual Import
 
 1. In TradingView, go to **Watchlist** panel
 2. Click the **+** button to create a new watchlist
